@@ -5,7 +5,7 @@
     "short_name": "On the blockchain",
 	"description": "Adds 'on the blockchain' to the end of every sentence.",
 	"author": "David Tran",
-	"version": "0.1",
+	"version": "0.1.2",
 	"icons": {
 		"16": "icon16.png",
 		"32": "icon32.png",

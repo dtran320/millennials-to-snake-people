@@ -33,7 +33,7 @@ function handleText(textNode) {
         }
     }
     console.log(sentences);
-  textNode.nodeValue = sentences.join('');
+  textNode.nodeValue = sentences.join(' ');
 }
 
 
