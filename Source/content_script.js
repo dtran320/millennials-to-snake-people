@@ -32,7 +32,6 @@ function handleText(textNode) {
             sentences.push(sentenceArr[i] + mvp);
         }
     }
-    console.log(sentences);
   textNode.nodeValue = sentences.join(' ');
 }
 
