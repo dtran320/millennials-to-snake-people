@@ -19,7 +19,7 @@ function handleText(textNode) {
     var mvp = ' on the blockchain'
     var text = textNode.nodeValue;
     // Arbitrarily don't add ' on the blockchain' to really short strings
-    if (text.length < 4) {
+    if (text.length < 8) {
         return;
     }
     var sentenceArr = text.split(/([.!?])\s/);
