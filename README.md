@@ -15,7 +15,7 @@ https://chrome.google.com/webstore/detail/on-the-blockchain/jieoegmpbhhhdeidanol
 Huge thank you to the following people for their help:
 
  - [Erin Griffith](https://twitter.com/eringriffth) for [the idea](https://twitter.com/eringriffith/status/954013195764748288)
- - [Eric Bailey](https://github.com/ericwbailey) for [millennials-to-snake-people(https://github.com/ericwbailey/millennials-to-snake-people)
+ - [Eric Bailey](https://github.com/ericwbailey) for [millennials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people)
  - [Iconmonstr](https://iconmonstr.com/link-1-png/) for the icon.
 
 ## How to disable
@@ -28,6 +28,8 @@ Don't worry! The extension can be re-enabled after ~~it destroys your blog post~
 
 
 ## Screenshots
+
+[See this page for more screenshots](https://app.upbeatpr.com/press/on-the-blockchain)
 
 ### Erin Griffith on Wired on the Blockchain
 [![Erin Griffith on Wired the blockchain](https://i.imgur.com/tLhbyjg.png)](https://www.wired.com/author/erin-griffith/)
